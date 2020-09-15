@@ -13,7 +13,7 @@
 
 * Spring Boot framework
 * Apache Kafka
-* Flutter
+
 
 <div align=center>
   
