@@ -7,7 +7,7 @@
 ### 🚀Purpose
 
 * **Good Software Developer with Spring boot & Java**
-* **Great Data Engineer**
+<!-- * **Great Data Engineer** -->
 
 ### 😘Interest
 
