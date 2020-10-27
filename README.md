@@ -14,7 +14,6 @@
 * Spring Boot framework
 * Apache Kafka
 * Flutter
-* Go Language
 
 <div align=center>
   
