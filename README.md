@@ -6,7 +6,7 @@
 
 ### 0. Purpose🚀
 
-**Good Software Developer**
+- **Good Software Developer**
 
 <!-- * **Great Data Engineer** -->
 
