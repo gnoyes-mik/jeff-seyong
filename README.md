@@ -12,10 +12,10 @@
 
 ### 1. Interest😘
 
-0. Java, Python
-1. Spring Boot framework
-2. Apache Kafka
-3. Flutter
+- Java, Python
+- Spring Boot framework
+- Apache Kafka
+- Flutter
 
 <div align=center>
   
