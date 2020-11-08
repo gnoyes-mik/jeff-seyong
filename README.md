@@ -6,14 +6,16 @@
 
 ### 0. Purpose🚀
 
-* **Good Software Developer with Spring boot & Java**
+**Good Software Developer**
+
 <!-- * **Great Data Engineer** -->
 
 ### 1. Interest😘
 
-0. Spring Boot framework
-1. Apache Kafka
-2. Flutter
+0. Java, Python
+1. Spring Boot framework
+2. Apache Kafka
+3. Flutter
 
 <div align=center>
   
