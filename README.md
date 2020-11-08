@@ -4,16 +4,16 @@
 
 </div>
 
-### 🚀Purpose
+### 0. Purpose🚀
 
 * **Good Software Developer with Spring boot & Java**
 <!-- * **Great Data Engineer** -->
 
-### 😘Interest
+### 1. Interest😘
 
-* Spring Boot framework
-* Apache Kafka
-* Flutter
+0. Spring Boot framework
+1. Apache Kafka
+2. Flutter
 
 <div align=center>
   
