@@ -1,21 +1,26 @@
-<div align=left>
+<div align=right>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeff-seyong)](https://hits.seeyoufarm.com)
 
 </div>
 
-### 0. Purpose🚀
+### Purpose🚀
 
-- **Good Software Developer**
+- **Great Server Engineer**
 
-<!-- * **Great Data Engineer** -->
-
-### 1. Interest😘
+### Interest😘
 
 - Java, Python
 - Spring Boot framework
 - Apache Kafka
 - Flutter
+
+### currently learning ..
+- [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
+- [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
+- [Algorithm Self-study](https://github.com/jeff-seyong/Algorithm)
+- Computer Science (private archive)
+
 
 <div align=center>
   
