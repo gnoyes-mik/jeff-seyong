@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 ### Purpose🚀
 
 - **Great Server Engineer**
@@ -15,7 +17,7 @@
 - Apache Kafka
 - Flutter
 
-### currently learning ..
+### Currently learning ..
 - [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
 - [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
 - [Algorithm Self-study](https://github.com/jeff-seyong/Algorithm)
