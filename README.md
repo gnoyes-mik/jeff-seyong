@@ -21,7 +21,7 @@
 - [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
 - [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
 - [Algorithm Self-study](https://github.com/jeff-seyong/Algorithm)
-- Computer Science (private archive)
+- Computer Science
 
 
 <div align=center>
