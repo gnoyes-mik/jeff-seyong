@@ -19,7 +19,7 @@
 
 ### Currently learning ..
 - [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
-- [Spring security](https://github.com/jeff-seyong/spring-security)
+- [Spring Security](https://github.com/jeff-seyong/spring-security)
 - [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
 - Computer Science
 
