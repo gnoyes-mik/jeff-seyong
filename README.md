@@ -8,7 +8,7 @@
 
 ### Purpose🚀
 
-- **Great Server Engineer**
+- **Great Server Developer**
 
 ### Interest😘
 
