@@ -18,10 +18,10 @@
 - Flutter
 
 ### Currently learning ..
-- [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
+- Java and Junit
 - [Spring Security](https://github.com/jeff-seyong/spring-security)
 - [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
-- Computer Science
+
 
 
 <div align=center>
@@ -29,6 +29,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sedragon.kim@gmail.com)](mailto:sedragon.kim@gmail.com)  [![Tstory Badge](https://img.shields.io/badge/Tech%20Blog-Tistory-1eb49f)](https://dev-threedragon.tistory.com/)
 
 </div>
+
+<!--
+- Computer Science
+- [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
+
+-->
 
 
 
