@@ -18,7 +18,8 @@
 - Flutter
 
 ### Currently learning ..
-- Java and Junit
+- Java
+- JPA
 - [Spring Security](https://github.com/jeff-seyong/spring-security)
 - [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
 
