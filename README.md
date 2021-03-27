@@ -19,10 +19,9 @@
 
 ### Currently learning ..
 - Java
-- JPA
 - [Spring Security](https://github.com/jeff-seyong/spring-security)
-- [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
-
+- Spring cloud
+- Kafka
 
 
 <div align=center>
@@ -34,7 +33,8 @@
 <!--
 - Computer Science
 - [Algorithm Study](https://github.com/2020-ASW/seyong-kim)
-
+- JPA
+- [Design Pattern](https://github.com/jeff-seyong/Design-Pattern)
 -->
 
 
