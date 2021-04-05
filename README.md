@@ -12,10 +12,9 @@
 
 ### Interest😘
 
-- Java, Python
-- Spring Boot framework
+- Java
+- Spring Boot
 - Apache Kafka
-- Flutter
 
 ### Currently learning ..
 - Java
