@@ -18,8 +18,7 @@
 
 ### Currently learning ..
 - Java
-- [Spring Security](https://github.com/jeff-seyong/spring-security)
-- Spring cloud
+- Spring Boot
 - Kafka
 
 
