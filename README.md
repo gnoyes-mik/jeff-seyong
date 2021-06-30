@@ -4,19 +4,11 @@
 
 </div>
 
----
 
-### Purpose🚀
-
-- **Great Server Developer**
+Hi, there!🖐
 
 ### Interest😘
 
-- Java
-- Spring Boot
-- Apache Kafka
-
-### Currently learning ..
 - Java
 - Spring Boot
 - Kafka
