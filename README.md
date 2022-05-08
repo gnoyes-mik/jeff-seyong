@@ -16,7 +16,7 @@ Hi, there!🖐
 
 <div align=center>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sedragon.kim@gmail.com)](mailto:sedragon.kim@gmail.com)  [![Tstory Badge](https://img.shields.io/badge/Tech%20Blog-Tistory-1eb49f)](https://dev-threedragon.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sedragon.kim@gmail.com)](mailto:sedragon.kim@gmail.com) 
 
 </div>
 
