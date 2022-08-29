@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=jeff%20render&fontSize=60&animation=twinkling)
+![header]([https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=jeff%20render&fontSize=60&animation=twinkling](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=%20%20Jeff%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Backend Developer&descAlign=60&descAlignY=50&&descSize=30)
 
 <div align=right>
   
