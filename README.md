@@ -9,12 +9,14 @@
 
 Hi, there!🖐
 
-### Interest😘
+## Interest <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" alt="coding" width="40px" />
 
 - Java
-- Spring Boot
+- Spring
 - Kafka
+- Flutter
 
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2056%20mins-blue)
