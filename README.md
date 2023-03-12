@@ -19,9 +19,9 @@ Hi, there!🖐
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-613.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,16 +45,16 @@ Mac                      8 hrs 57 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     25 repos            ████████████████████░░░░░   80.65 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Java                     26 repos            ████████████████████░░░░░   81.25 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 11/03/2023 01:04:42 UTC
+ Last Updated on 12/03/2023 01:14:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
