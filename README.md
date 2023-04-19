@@ -14,7 +14,6 @@ Hi, there!🖐
 - Java
 - Spring
 - Kafka
-- Flutter
 
 ---
 
